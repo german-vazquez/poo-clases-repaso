@@ -1,4 +1,4 @@
-package preparcial1;
+package a_preparcial1;
 
 
 public class ExamenFinal extends Examen implements Comparar {

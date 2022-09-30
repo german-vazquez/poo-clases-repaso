@@ -1,4 +1,4 @@
-package parcial;
+package b_parcial;
 
 public class Yate extends Embarcacion implements Comparar2{
     private Integer camarote;

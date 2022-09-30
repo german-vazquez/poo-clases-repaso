@@ -1,4 +1,4 @@
-package preparcial1;
+package a_preparcial1;
 
 public abstract class Examen {
 

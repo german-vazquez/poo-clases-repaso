@@ -1,4 +1,4 @@
-package parcial;
+package b_parcial;
 
 public abstract class Embarcacion {
     private Double precioBase;
